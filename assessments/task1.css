@@ -1,0 +1,50 @@
+.create button{
+   color:white;
+   background-color:blue;
+   border:1px solid blue;
+   border-radius:5px;
+   height:40px;
+}
+.create button{
+   text-align: center;
+   padding-left: 230px;
+   padding-right: 230px;
+}
+.facebook{
+   padding:10px;
+   background-color:#4267b2;
+   border:1px solid #4267b2;
+   border-radius:5px;
+}
+.facebook i{
+   color:white;
+   background-color:#4267b2;
+}
+.facebook a{
+   color:white;
+   text-decoration:none;
+   padding-left: 200px;
+   padding-right: 200px;
+}
+.or{
+   text-align: center;
+}
+img{
+   height: 700px;
+}
+.twitter{
+   padding:10px;
+   background-color:#21afde;
+   border:1px solid #21afde;
+   border-radius:5px;
+}
+.twitter i{
+   color:white;
+   background-color:#21afde;
+}
+.twitter a{
+   color:white;
+   text-decoration:none;
+   padding-left: 210px;
+   padding-right: 210px;
+}
